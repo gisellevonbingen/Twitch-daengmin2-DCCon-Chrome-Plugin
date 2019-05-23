@@ -1,6 +1,6 @@
 {
     "name": "Twitch daengmin2 DCCon Chrome Plugin",
-    "version": "1.0.1",
+    "version": "1.0.2",
 	"background": {
         "scripts": [
             "background.js"
